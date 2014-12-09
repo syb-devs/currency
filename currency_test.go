@@ -3,7 +3,7 @@ package currency_test
 import (
 	"testing"
 
-	"bitbucket.org/syb-devs/currency"
+	"github.com/syb-devs/currency"
 )
 
 var currencyEqualsTests = []struct {
